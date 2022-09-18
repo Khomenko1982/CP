@@ -1,0 +1,15 @@
+C:\Курсы\cp\FinalHW\bin\Debug\net6.0\FinalHW.exe
+C:\Курсы\cp\FinalHW\bin\Debug\net6.0\FinalHW.deps.json
+C:\Курсы\cp\FinalHW\bin\Debug\net6.0\FinalHW.runtimeconfig.json
+C:\Курсы\cp\FinalHW\bin\Debug\net6.0\FinalHW.dll
+C:\Курсы\cp\FinalHW\bin\Debug\net6.0\FinalHW.pdb
+C:\Курсы\cp\FinalHW\obj\Debug\net6.0\FinalHW.csproj.AssemblyReference.cache
+C:\Курсы\cp\FinalHW\obj\Debug\net6.0\FinalHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Курсы\cp\FinalHW\obj\Debug\net6.0\FinalHW.AssemblyInfoInputs.cache
+C:\Курсы\cp\FinalHW\obj\Debug\net6.0\FinalHW.AssemblyInfo.cs
+C:\Курсы\cp\FinalHW\obj\Debug\net6.0\FinalHW.csproj.CoreCompileInputs.cache
+C:\Курсы\cp\FinalHW\obj\Debug\net6.0\FinalHW.dll
+C:\Курсы\cp\FinalHW\obj\Debug\net6.0\refint\FinalHW.dll
+C:\Курсы\cp\FinalHW\obj\Debug\net6.0\FinalHW.pdb
+C:\Курсы\cp\FinalHW\obj\Debug\net6.0\FinalHW.genruntimeconfig.cache
+C:\Курсы\cp\FinalHW\obj\Debug\net6.0\ref\FinalHW.dll
